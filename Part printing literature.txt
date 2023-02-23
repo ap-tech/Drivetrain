@@ -1,7 +1,0 @@
-The material I use here is PETG printed at 240°C and 65°C for the bed, The printer is a Crealty CR10Pro and The make of the filament is Prima, The infill is 15% and the perimeter is 4 the slicer is PrusaSlicer.
-
-Orientation, Support material, Print time, And even extra PrusaSlicer settings are in the pics I supply in this folder.
-
-As for, If this will work with PLA? I don’t know how DIY silicone reacts with PLA, You may have to do some testing yourself.
-
-Happy Printing :)
